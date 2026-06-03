@@ -1,0 +1,106 @@
+{
+  "package": "PR-DDOLF-public_code",
+  "file_count": 20,
+  "files": [
+    {
+      "path": "CODE_AVAILABILITY.md",
+      "size_bytes": 518,
+      "sha256": "6365eef10e4e5068b1c65f301f8010bab54e9ac0aabc0a402c5ebbbcceba2752"
+    },
+    {
+      "path": "METRICS.md",
+      "size_bytes": 4080,
+      "sha256": "bd214d25fae60dad1716ef321da7790a1b0b85f4c231aed4bbf46983acc44dc8"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 1120,
+      "sha256": "56777c192f5e95c5ba3860b58c00a4a7d175b6685f5e8ac668ddaad7db33f824"
+    },
+    {
+      "path": "RELEASE_MANIFEST.md",
+      "size_bytes": 900,
+      "sha256": "261ef1d9b220000a35253cde28231636f0e12bff6e4da341bfba1ec88b31c8cf"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 54,
+      "sha256": "9dc4c5389f45cda3879072523f91e7e9f93130df8928e69c216d93a26341811e"
+    },
+    {
+      "path": "RUN_CONFIGS.md",
+      "size_bytes": 1862,
+      "sha256": "96b6c9b539d875d44cdf1e4ceb9b02e7f302d36689dbeaae10ec43aa53aa5c98"
+    },
+    {
+      "path": "stage1/models/baselines/train_pure_mlp_stage1.py",
+      "size_bytes": 20570,
+      "sha256": "dddad4740b503446e3aaee40b4cf495d57305ede59296dbf242a79d1422be0de"
+    },
+    {
+      "path": "stage1/models/baselines/train_soft_pinn_stage1.py",
+      "size_bytes": 23063,
+      "sha256": "6e0af835ebad6058b86077ae2be2036b4612c6ce3db612c068d0864893b9c39f"
+    },
+    {
+      "path": "stage1/models/cnn/eval_cnn_single_channel_consistency.py",
+      "size_bytes": 20794,
+      "sha256": "b4f70c0b12e6ebd1adea93469c0fa4f3c300e5996dd939c5c58412e2c4f6e3d9"
+    },
+    {
+      "path": "stage1/models/cnn/predict_cnn_single_channel.py",
+      "size_bytes": 11261,
+      "sha256": "4472573bf8b644fb4043c165ac2304fd5e5e3adf3517a4ec39d12a2c9707e2d8"
+    },
+    {
+      "path": "stage1/models/cnn/train_cnn_light10hz_bell.py",
+      "size_bytes": 45063,
+      "sha256": "af48c26bfcf33bd2ee94cf9242796eb638733b357164e1e6dfbd5e5521876df2"
+    },
+    {
+      "path": "stage1/models/transformer/analyze_transformer_stage1.py",
+      "size_bytes": 16079,
+      "sha256": "e20ddabb5f2eeb5063eef3021a2fd41a39a21e71c64288ad6dba06ad92351386"
+    },
+    {
+      "path": "stage1/models/transformer/eval_transformer_stage1_consistency.py",
+      "size_bytes": 17972,
+      "sha256": "71cbbb2a25cf0843412a0a0ae31e832ff2e06d66f9b5d465f9ff28b464a9c69e"
+    },
+    {
+      "path": "stage1/models/transformer/predict_transformer_stage1.py",
+      "size_bytes": 8205,
+      "sha256": "b9a0d9f1be7926a5bb39ecc81a8f421a6616dfd4de7a7cce1a2319af62653d61"
+    },
+    {
+      "path": "stage1/models/transformer/train_transformer_stage1.py",
+      "size_bytes": 64571,
+      "sha256": "3f05e1810b028b310c839b95a682b0e22221c04a055cf72d4d32fe12cf932a82"
+    },
+    {
+      "path": "stage2/models/baselines/train_stage2_mlp_residual.py",
+      "size_bytes": 11341,
+      "sha256": "9d98924c76cca8c65e6bc8132b58beac0db1ca7139bcc36a9f2d51a158bdc3d4"
+    },
+    {
+      "path": "stage2/models/fno/analyze_stage2_fno_residual.py",
+      "size_bytes": 13090,
+      "sha256": "b9dcf3322b5ea963dc43a4ada05ad575166dbc9122204123a63d0eb710946890"
+    },
+    {
+      "path": "stage2/models/fno/common_stage2_fno.py",
+      "size_bytes": 19310,
+      "sha256": "79d48325d2a1a89ce13a0bad70fa4ca27912b825f5f4667c0e5b4c602a2121f4"
+    },
+    {
+      "path": "stage2/models/fno/eval_stage2_fno_residual.py",
+      "size_bytes": 6932,
+      "sha256": "58d7f93caa6c92c850647a9f71a4e8003f14d48c2b0f05d3441916bbffbbafc4"
+    },
+    {
+      "path": "stage2/models/fno/train_stage2_fno_residual.py",
+      "size_bytes": 10083,
+      "sha256": "25636cce17633d727c2ac894123f8fa4f6114e0160563bba631fb7710e10caa9"
+    }
+  ]
+}

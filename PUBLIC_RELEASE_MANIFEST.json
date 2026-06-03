@@ -9,13 +9,13 @@
     },
     {
       "path": "METRICS.md",
-      "size_bytes": 4080,
-      "sha256": "bd214d25fae60dad1716ef321da7790a1b0b85f4c231aed4bbf46983acc44dc8"
+      "size_bytes": 4164,
+      "sha256": "be9b45eca92daaece49cc1c1ece5aa30189e0e7ffa32ee4c062ba110608a44cf"
     },
     {
       "path": "README.md",
-      "size_bytes": 1120,
-      "sha256": "56777c192f5e95c5ba3860b58c00a4a7d175b6685f5e8ac668ddaad7db33f824"
+      "size_bytes": 1131,
+      "sha256": "48f3020362b3d119a8fc00c6621de6a27971e5c1fbd6909afcef996082713cd0"
     },
     {
       "path": "RELEASE_MANIFEST.md",

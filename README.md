@@ -2,7 +2,7 @@
 
 This package provides the core source code for the PR-DDOLF framework.
 The experimental DMA data are not included because they are subject to
-confidentiality and private-use restrictions.
+confidentiality and institutional data-use restrictions.
 
 ## Contents
 

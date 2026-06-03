@@ -17,8 +17,10 @@ The processed `.npz` files expected by the scripts store:
 - temperature in degrees Celsius;
 - frequency in Hz.
 
-Model code may evaluate modulus errors in log space. Manuscript plots may report
-RMSE values as percentages after multiplying the stored decimal metric by 100.
+Model code may evaluate modulus errors in log space. Manuscript figures may
+display modulus values in MPa after unit conversion from Pa. Manuscript plots
+may report RMSE values as percentages after multiplying the stored decimal
+metric by 100.
 
 ## Measured-range RMSE
 
